@@ -83,18 +83,7 @@ for buch in buch_liste:
     buch.ausgabe()
 
 # ----------------------------------------------------------------------------------------------
-# 5. Erzeugen Sie in der Klasse Books einen Destruktor (def ___del___(….)) der
-#    das Löschen von Objekten ermöglicht.
-# ----------------------------------------------------------------------------------------------
-# Weggelassen
-
-# ----------------------------------------------------------------------------------------------
-# 6. Löschen Sie das soeben erzeugte Objekt (Summerfield…..) wieder
-# ----------------------------------------------------------------------------------------------
-# Weggelassen
-
-# ----------------------------------------------------------------------------------------------
-# 7. Erzeuge folgendes Objekt in der „Klasse Article“ (Die Klasse soll von
+# 6. Erzeuge folgendes Objekt in der „Klasse Article“ (Die Klasse soll von
 #    der „Klasse Books“ erben)
 #
 #    Madnani, N. (2007). Getting started on natural language processing with
@@ -135,7 +124,7 @@ article.ausgabe()
 article.database_entry()
 
 # ----------------------------------------------------------------------------------------------
-# 8. Das erzeugte Objekt soll in MongoDB – Datenbank „literature“ in einer
+# 7. Das erzeugte Objekt soll in MongoDB – Datenbank „literature“ in einer
 #    Collection „documents“ abgespeichert werden.
 #
 #    Ohne die Methode Database_entry (zu Fuß)
